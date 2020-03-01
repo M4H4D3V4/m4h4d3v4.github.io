@@ -8,5 +8,3 @@ Modifications in Anonmasky are its logo, menu, matrix and bookmarks.
 
 Only modified for personal use. 
 This is opensource do whatever the fuck you want with this code.
-
-Inspired from https://weboas.is
